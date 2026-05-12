@@ -1,9 +1,9 @@
 import React from "react";
 import gsap from "gsap";
 import { ScrollTrigger, SplitText } from "gsap/all";
-import Navbar from "./Component/Navbar";
-import Hero from "./Component/Hero";
-import Cocktails from "./Component/Cocktails";
+import Navbar from "./Component/Navbar.jsx";
+import Hero from "./Component/Hero.jsx";
+import Cocktails from "./Component/Cocktails.jsx";
 
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
