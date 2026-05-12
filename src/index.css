@@ -155,7 +155,7 @@ body {
       }
 
       .loved {
-        @apply space-y-8 w-full md:w-fit pb-1 md:pb-0;
+        @apply space-y-8 w-full md:w-fit pb-2 md:pb-0;
       }
 
       h2 {
